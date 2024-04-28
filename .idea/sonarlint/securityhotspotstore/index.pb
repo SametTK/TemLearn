@@ -17,3 +17,6 @@ c
 3src/main/java/org/example/Vertragsbediemsteter.java,5\7\575b7752c2d83d0a42fd728567c00a235ae33061
 V
 &src/main/java/org/example/Beamter.java,5\e\5eb76192fc4706e4d62ae2e4fbc41c3d218bb950
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
